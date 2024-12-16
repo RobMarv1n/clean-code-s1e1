@@ -18,7 +18,8 @@
 }
 
 @media (max-width:768px) {
-  .matrix { text-align: center;
+  .matrix {
+    text-align: center;
   }
 }
 .todo-list {
@@ -97,7 +98,6 @@ input,button{
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -115,7 +115,7 @@ input,button{
   font-size: 18px;
   width: 226px;
 }
-.list-item >    .input {
+.list-item > .input {
   width: 226px
 }
 .remove-img {
