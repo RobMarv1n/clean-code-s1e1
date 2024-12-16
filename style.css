@@ -131,7 +131,7 @@ button {
 }
 
 /* Completed */
-.list#completed-tasks .label {
+.list#completed-tasks .task {
   text-decoration: line-through;
   color: #888;
 }
